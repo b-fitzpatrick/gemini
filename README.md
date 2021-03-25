@@ -5,4 +5,4 @@ Many components are from the Prusa Mini (https://github.com/prusa3d/Original-Pru
 
 The extruder is the MK3S+ R6 design (https://github.com/prusa3d/Original-Prusa-i3). The belt-retention geometry of the x-carriage was mirrored to account for the motor being on the right side of the machine.
 
-Firmware changes are required to handle the different extruder steps, relocated bed-leveling probe, and reversed operation of the filament sensor. The "gemini" branch of https://github.com/b-fitzpatrick/Prusa-Firmware-Buddy is based on the official 4.3.1 firmware. (Diff: https://github.com/prusa3d/Prusa-Firmware-Buddy/compare/RELEASE-4.3.1...b-fitzpatrick:gemini)
+Firmware changes are required to handle the different extruder steps, relocated bed-leveling probe, shorter filament path, and reversed operation of the filament sensor. The "gemini" branch of https://github.com/b-fitzpatrick/Prusa-Firmware-Buddy is based on the official 4.3.1 firmware. (Diff: https://github.com/prusa3d/Prusa-Firmware-Buddy/compare/RELEASE-4.3.1...b-fitzpatrick:gemini)
