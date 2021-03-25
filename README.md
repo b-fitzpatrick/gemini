@@ -7,4 +7,6 @@ The extruder is the MK3S+ R6 design (https://github.com/prusa3d/Original-Prusa-i
 
 Firmware changes are required to handle the different extruder steps, relocated bed-leveling probe, shorter filament path, and reversed operation of the filament sensor. The "gemini" branch of https://github.com/b-fitzpatrick/Prusa-Firmware-Buddy is based on the official 4.3.1 firmware. (Diff: https://github.com/prusa3d/Prusa-Firmware-Buddy/compare/RELEASE-4.3.1...b-fitzpatrick:gemini)
 
-The Fusion 360 model started out nice, with parameters that could be changed to move the machine through its range of motion. Towards the end, it got a bit sloppy, as I just wanted to print and try the thing. I need to do some assembly clean-up to get things working well again.
+The Fusion 360 model started out nice, with parameters that could be changed to move the machine through its range of motion. Towards the end, it got a bit sloppy, as I just wanted to print and try the thing. I need to do some assembly clean-up to get it working well again.
+
+I have a second Mini that I plan to convert. When I do this, I'll compile a BOM and document the assembly. In the meantime, in addition to the model, you can see more details in this video: https://youtu.be/Jrde_Tbfxjs
